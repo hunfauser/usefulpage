@@ -14,7 +14,7 @@ body {
 .container {
 	margin: 0 auto;
 	width: 90%;
-	max-width: 1000px;
+	max-width: 1200px;
 	color: #fff;
 }
 
@@ -87,7 +87,7 @@ header {
 }
 
 #interesting-page {
-    background: url(pics/interesting.jpg) center center;
+    background: url(pics/interesting-250.png) center center;
 	background-size: cover;
 }
 
