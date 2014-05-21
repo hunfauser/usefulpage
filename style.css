@@ -62,7 +62,7 @@ header {
 }
 
 #economic-page {
-    background: url(pics/economic.jpeg) center center;
+    background: url(pics/economic.jpg) center center;
 	background-size: cover;
 }
 
@@ -72,7 +72,7 @@ header {
 }
 
 #apple-page {
-    background: url(pics/apple.jpeg) center center;
+    background: url(pics/apple.jpg) center center;
 	background-size: cover;
 }
 
@@ -87,7 +87,7 @@ header {
 }
 
 #interesting-page {
-    background: url(pics/interesting-250.png) center center;
+    background: url(pics/interesting.png) center center;
 	background-size: cover;
 }
 
